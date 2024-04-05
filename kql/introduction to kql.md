@@ -1,6 +1,6 @@
 This blog is about my dive into a data query language that has fascinated me since becoming a security analyst. KQL stands for Kusto Query Language, a data query language used primarily for security operations using Microsoft Azure and Microsoft 365 security and monitoring tools. Microsoft tools and platforms that primarily use KQL include: 
 
-- Azure Data Explorer (ADX)
+- Azure Data Explorer (ADX) 
 - Azure Log Analytics
 - Microsoft Sentinel
 - Azure Monitor
