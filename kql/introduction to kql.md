@@ -8,7 +8,7 @@ This blog is about my dive into a data query language that has fascinated me sin
 - Microsoft 365 Defender
 
 ### Objectives
-As KQL is such an extensive topic to learn, I have decided to break it down into small chunks or series for easy assimilation and retention, so for this blog my objectives are outlined as follows:
+As KQL is such an extensive topic to learn, I have decided to break it down into small chunks or series for easy assimilation and retention, for this blog my objectives are outlined as follows:
 
 - Understanding the Fundamentals of KQL
 - An overview of how KQL is used in security operations
@@ -36,7 +36,7 @@ Now for the fun part, let's walk through the process of setting up how a free Az
 
 https://share.cleanshot.com/3QPxPxBs
 
-The first task is to create a [cluster] and [data base]. To differentiate, a **cluster** is like a top-level container that holds everything together. It's where you manage and organise your data. Within a cluster, you can have one or more **databases**. Think of a database as a storage unit within the cluster where you store and organise specific sets of data. So, in simple terms, a cluster is like a big box that holds all your data, and databases are smaller boxes inside that big box where you keep different types of information organised.
+The first task is to create a cluster and data base. To differentiate, a **cluster** is like a top-level container that holds everything together. It's where you manage and organise your data. Within a cluster, you can have one or more **databases**. Think of a database as a storage unit within the cluster where you store and organise specific sets of data. So, in simple terms, a cluster is like a big box that holds all your data, and databases are smaller boxes inside that big box where you keep different types of information organised.
 
 https://share.cleanshot.com/K9YWnZ5S
 
@@ -44,3 +44,4 @@ https://share.cleanshot.com/K9YWnZ5S
 To ingest data into the database To add data head over to the My cluster menu option and select Action and Ingest data. You will be presented with four options to choose where to upload your data from. In this example my sample data is stored on my local computer so I chose option number 1. In the next part we will dive into writing our first query request. 
 
 https://share.cleanshot.com/F11PjqQF
+

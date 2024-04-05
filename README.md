@@ -1,4 +1,5 @@
-Welcome to my cyber security blog repository! Here you'll find a collection of articles covering various topics related to cybersecurity. The essence of my blogs is to educate, inform, and share insights on cybersecurity practices, trends, and developments.
+![[banner.jpeg]]
+Welcome to my cyber security blog repository! Here you'll find a collection of articles covering various cybersecurity-related topics. The essence of my blogs is to educate, inform, and share insights on cybersecurity practices, trends, and developments.
 
 ## Purpose
 
