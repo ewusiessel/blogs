@@ -1,3 +1,5 @@
+ ![1](https://github.com/ewusiessel/blogs/assets/45021733/342a97ad-09ca-4e88-bf07-51b2c943dde5)
+
 Welcome to my cyber security blog repository! Here you'll find a collection of articles covering various cybersecurity-related topics. The essence of my blogs is to educate, inform, and share insights on cybersecurity practices, trends, and developments.
 
 ## Purpose
