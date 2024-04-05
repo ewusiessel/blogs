@@ -1,2 +1,5 @@
-.obsidian
-.DS_Store
+# Ignore local development files
+**/.vscode
+**/.DS_Store
+**/.obsidian
+
