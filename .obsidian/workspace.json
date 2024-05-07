@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "kql/introduction to kql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "427079ed2e2b9183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wazuh/Wuzah - An Open Source Security Tool with Super Powers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "59d85b759bc89f10",
@@ -85,11 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "wazuh/Wuzah - An Open Source Security Tool with Super Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "wazuh/Wuzah - An Open Source Security Tool with Super Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "wazuh/Wuzah - An Open Source Security Tool with Super Powers.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62abdd4b2c16f7b7",
+  "active": "c152c3b16f2e8856",
   "lastOpenFiles": [
     "kql/introduction to kql.md",
+    "wazuh/Wuzah - An Open Source Security Tool with Super Powers.md",
+    "wazuh",
     "README.md",
     "assets/banner.jpeg",
     "assets",
     "Untitled.canvas",
-    "Untitled.md",
     "gitignore/Untitled.md",
     "gitignore",
     "blogs/Baby Steps with KQL (Pt 1.).md"
